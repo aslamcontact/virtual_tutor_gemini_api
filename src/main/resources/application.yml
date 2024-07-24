@@ -1,0 +1,3 @@
+spring:
+  application:
+      name: virtual_tutor_gemini_api
